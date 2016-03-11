@@ -60,7 +60,7 @@ public class ZProstokat {
 
         policzone = (2*w + ((h-2)*2));
 
-        System.out.println(figura + "(" + count + ")" + " rozmiaru " + w + " x " + h + ", " + policzone + "\n");
+        System.out.println(figura + "(" + count + ")" + " rozmiaru " + w + " x " + h + ", " + o + " = " + policzone + "\n");
 
         //poniżej drukuję figurę o odpowiednich znakach i długościach
         for (int a = 0; a < w; a++){
