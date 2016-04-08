@@ -1,4 +1,4 @@
-package Z_4;
+package Z_4_1;
 
 abstract class Spiewak {
     String nazwisko;
