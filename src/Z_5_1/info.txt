@@ -1,0 +1,3 @@
+77031 350 21933016 -> taki powinien być wynik w dniu 08.04.2017r
+
+pierwsza i 3 liczba może wyjść praktycznie od razu, zaś problem może być problem ze środkową liczbą (trzeba policzyć pierwsze wykonanie programu)
